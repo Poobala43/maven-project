@@ -216,7 +216,7 @@
         </repository>
        <snapshotRepository>
             <id>nexus</id>
-            <name>Snapshots</name>
+            <name>Snapshot</name>
             <url>http://localhost:8081/nexus/content/repositories/Sample/</url>
         </snapshotRepository>
 </distributionManagement>
